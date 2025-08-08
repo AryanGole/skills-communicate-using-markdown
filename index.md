@@ -25,3 +25,10 @@ def greet(name):
 
 greet("Aryan")
 ```
+
+
+- [x] Add headers to index.md
+- [x] Add an image to the file
+- [x] Add a block of code
+- [ ] Add a list
+
