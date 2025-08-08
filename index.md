@@ -16,3 +16,12 @@ In this assignment, we apllied markdown formatting to plain text to explore vari
 
 # This is my cat May.
 ![A cute cat](https://moderncat.com/wp-content/uploads/2023/10/bigstock-75271342_Birute-Vijeikiene.jpg)
+
+
+### Code
+```python
+def greet(name):
+    print(f"Hello, {name}!")
+
+greet("Aryan")
+```
